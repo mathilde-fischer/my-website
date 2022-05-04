@@ -1,0 +1,16 @@
+.btn-violet {
+ background-color:rgba(188,160,220,0.7);
+ border-radius: 4px;
+ color:white;
+ font-weight: bold;
+ padding: 15px 20px;
+ font-family: 'Nunito Sans', sans-serif;
+}
+
+.btn-blue {
+ border-radius: 4px;
+ color:rgba(91,174,183,0.6);
+ font-weight: bold;
+ padding: 15px 20px;
+ font-family: 'Nunito Sans', sans-serif;
+}
